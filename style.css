@@ -1,0 +1,53 @@
+body {
+    color: blueviolet;
+    text-align: center;
+    width: 900px;
+}  
+
+div {
+    background-color: goldenrod;
+    
+}
+ul{
+        list-style-type:none;
+        display:inline-block;
+        justify-content: center;
+        align-items: center;
+      
+    }
+
+ul li {
+    
+    background-color: green;
+    color:gold;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: plum;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+a:active {
+    color: darkorange;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+img {
+    width: 300px;
+    height: auto;
+    align-items: center;
+}
